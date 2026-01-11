@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my undergraduate-Biotech projects are available at [Orcid Profile](https://orcid.org/0009-0007-7421-6970)
 
-- 📫 How to reach me - **Gmail** : **trinankurmitra@gmail.com** ; **LinkedIn** : **https://www.linkedin.com/in/trinankur-mitra-aa5a861b1/**
+- 📫 How to reach me - **trinankurmitra@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cM-YeLb7Gyo4lmNZ3f8HLp64GagnAeXl/view?usp=sharing)
 
