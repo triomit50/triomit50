@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Trinankur Mitra</h1>
-<h3 align="center">An AI-ML enthusiast & Curious Coder</h3>
+<h3 align="center">An AI-ML enthusiast + Curious Coder</h3>
 
 - 🌱 I’m currently pursuing **M.Tech.** from **Indian Institute of Technology Madras (IITM)**
 
@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **building from scratch and fine-tuning SLMs & LLMs**
 
-- 👨‍💻 All of my undergraduate-Biotech projects are available at [Orcid Profile](https://orcid.org/0009-0007-7421-6970)
+- 👨‍💻 Some of my Biotechnological publications are at [Orcid Profile](https://orcid.org/0009-0007-7421-6970)
 
 - 📫 How to reach me - **trinankurmitra@gmail.com**
 
