@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Trinankur Mitra</h1>
-<h3 align="center">Dedicated Learner and Coder from India</h3>
+<h1 align="center">Hi 👋, This is Trinankur Mitra</h1>
+<h3 align="center">An AI-ML enthusiast & Curious Coder</h3>
 
-- 🌱 I’m currently learning **ML Algorithms**
+- 🌱 I’m currently pursuing **M.Tech.** from **Indian Institute of Technology Madras (IITM)**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- 👯 I’m looking to collaborate on **Generative AI & innovative ML projects**
 
-- 🤝 I’m looking for help with **advancing in LLMs**
+- 🤝 I’m looking for help with **building from scratch and fine-tuning SLMs & LLMs**
 
-- 👨‍💻 All of my projects are available at [https://orcid.org/0009-0007-7421-6970](https://orcid.org/0009-0007-7421-6970)
+- 👨‍💻 All of my undergraduate-Biotech projects are available at [Orcid Profile](https://orcid.org/0009-0007-7421-6970)
 
-- 📫 How to reach me **trinankurmitra@gmail.com**
+- 📫 How to reach me - **Gmail** : **trinankurmitra@gmail.com** ; **LinkedIn** : **https://www.linkedin.com/in/trinankur-mitra-aa5a861b1/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cM-YeLb7Gyo4lmNZ3f8HLp64GagnAeXl/view?usp=sharing](https://drive.google.com/file/d/1cM-YeLb7Gyo4lmNZ3f8HLp64GagnAeXl/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cM-YeLb7Gyo4lmNZ3f8HLp64GagnAeXl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
